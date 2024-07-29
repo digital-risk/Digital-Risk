@@ -2569,15 +2569,7 @@ SPIDER,2,1,"A piece of software (also called a Web crawler) designed to follow h
 SPII,3,0,"Personally Identifiable Information which if lost, compromised, or disclosed without authorization, could result in substantial harm, embarrassment, inconvenience, or unfairness to an individual. SPII requires stricter handling guidelines because of the increased risk to an individual if the data is inappropriately accessed or compromised. Some categories of PII are sensitive as stand-alone data elements, including your Social Security number (SSN) and driverÇs license or state identification number. Other data elements such as citizenship or immigration status, medical information, ethnic, religious, sexual orientation, or lifestyle information, in conjunction with the identity of an individual (directly or indirectly inferred), are also SPII. Reference: DHS Handbook for Safeguarding Sensitive PII See Also: Personally Identifiable Information (PII)"
 SPONSORED SEARCH,0,1,See Search advertising.
 SPOOFING,2,1,"1.	A process whereby a router responds to keep alive messages from a host rather than passing them on the remote client, thus saving call charges. Used mainly in Integrated Services Digital Network (ISDN). 2.	Of a packet, falsely claiming to be from an address different from that from which it actually originated."
-SPP,4,1,"Service parts planning (SPP) supports the optimal stock quantities and location of items used to service internal assets or customer equipment in the aftermarket. SPP applications address processes such as:
-ï Forecasting and demand planning
-ï Inventory planning and optimization
-ï Distribution/allocation and supply planning
-ï Collaboration
-ï Workforce planning
-ï Analytics and BAM (such as visibility and event management)
-ï Pricing optimization
-ï Returns and repair center management"
+SPP,4,1,"Service parts planning (SPP) supports the optimal stock quantities and location of items used to service internal assets or customer equipment in the aftermarket."
 SPREAD SPECTRUM,2,1,Radio technology that enables a number of radio communication links to use the same band of frequencies simultaneously without mutual interference.
 SPREADSHEET,3,0,"Software displaying data in a grid of columns and rows, with the capability of easily recalculating numerical data."
 SPY-WARE,2,1,"(Context: General) A category of malicious software designed to intercept or take partial control of a computer's operation without the informed consent of that machine's owner or legitimate user. While the term taken literally suggests software that surreptitiously monitors the user, it has come to refer more broadly to software that subverts the computer's operation for the benefit of a third party."
